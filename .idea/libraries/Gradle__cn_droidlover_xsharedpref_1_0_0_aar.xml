@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.droidlover:xsharedpref:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c234a8e071f19f69dedcb75a0ba2f85b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c234a8e071f19f69dedcb75a0ba2f85b/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.droidlover/xsharedpref/1.0.0/e93880d0bb180f9e03ea891bed0a1eb31d3569f2/xsharedpref-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
